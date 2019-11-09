@@ -12,4 +12,4 @@
 
 ## Credits
 
-Thanks to [News API](newsapi.org) for their free news API.
+Thanks to [News API](http://newsapi.org) for their free news API.
