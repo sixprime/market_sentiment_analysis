@@ -1,5 +1,7 @@
 # Market sentiment analysis
 
+Yesterday's news are today's stock market prices.
+
 ## Usage
 
 1 - `pip install requirements.txt`
