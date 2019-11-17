@@ -103,3 +103,6 @@ msa_venv/
 
 # mypy
 .mypy_cache/
+
+# IDE
+.vscode/
